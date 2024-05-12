@@ -24,6 +24,7 @@ const LoginPage = () => {
           <label htmlFor="">Your Password</label>
           <input type="password" />
           <Button>Login</Button>
+          <Button>How to Login?</Button>
         </form>
       </div>
     </div>
